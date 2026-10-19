@@ -1,0 +1,2 @@
+I have utilized ChatGPT for the code, and to give me in depth reasoning of what the code is providing
+It has used the Ricatti equation for the cost equation
